@@ -1,7 +1,5 @@
 # Omkar-AML-Experiments
 
-# Omkar-AML-Experiments
-
 This repository contains **Applied Machine Learning (AML) practical experiments** implemented using Python, Scikit-learn, Pandas, and other machine learning libraries.
 
 The experiments cover fundamental ML concepts such as:
